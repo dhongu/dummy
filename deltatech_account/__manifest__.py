@@ -1,9 +1,9 @@
-# ©  2008-2021 Deltatech
+# ©  2008-2019 Deltatech
 #              Dorin Hongu <dhongu(@)gmail(.)com
 # See README.rst file on addons root folder for license details
 
 {
-    "name": "Deltatech Parallel Valuation",
+    "name": "Deltatech Dummy",
     "version": "12.0.1.0.0",
     "author": "Terrabit, Dorin Hongu",
     "website": "https://www.terrabit.ro",
